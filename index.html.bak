@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>53HOSTING</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Favicons -->
+  <link href="img/favicon.png" rel="icon">
+  <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,600,700,700i|Montserrat:300,400,500,600,700" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate/animate.min.css" rel="stylesheet">
+  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+    Theme Name: Rapid
+    Theme URL: https://bootstrapmade.com/rapid-multipurpose-bootstrap-business-template/
+    Author: BootstrapMade.com
+    License: https://bootstrapmade.com/license/
+  ======================================================= -->
+</head>
+
+<body>
+  <!--==========================
+  Header
+  ============================-->
+  <header id="header">
+
+    <div id="topbar">
+      <div class="container">
+        <div class="social-links">
+          <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+          <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+          <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+          <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      <div class="logo float-left">
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <h1 class="text-light"><a href="#intro" class="scrollto"><span>53HOSTING</span></a></h1>
+        <!-- <a href="#header" class="scrollto"><img src="img/logo.png" alt="" class="img-fluid"></a> -->
+      </div>
+
+      <nav class="main-nav float-right d-none d-lg-block">
+        <ul>
+        </ul>
+      </nav><!-- .main-nav -->
+      
+    </div>
+  </header><!-- #header -->
+
+  <!--==========================
+    Intro Section
+  ============================-->
+  <section id="intro" class="clearfix">
+    <div class="container d-flex h-100">
+      <div class="row justify-content-center align-self-center">
+        <div class="col-md-6 intro-info order-md-first order-last">
+          <h2>Host Your<br>Website Whit <span>53Hosting</span></h2>
+          <div>
+            <a href="#about" class="btn-get-started scrollto">Host</a>
+          </div>
+        </div>
+  
+        <div class="col-md-6 intro-img order-md-last order-first">
+          <img src="img/intro-img.svg" alt="" class="img-fluid">
+        </div>
+      </div>
+
+    </div>
+  </section><!-- #intro -->
+
+  <main id="main">
+
+    <!--==========================
+      About Us Section
+    ============================-->
+ 
+    </section><!-- #about -->
+
+
+    <!--==========================
+      Services Section
+    ============================-->
+    <section id="services" class="section-bg">
+      <div class="container">
+
+        <header class="section-header">
+          <h3>~ What Do We Have ~</h3>
+          <p>In Our Application You Can Connect To Your Server...</p>
+        </header>
+
+        <div class="row">
+
+          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
+            <div class="box">
+              <div class="icon" style="background: #fceef3;"><i class="ion-ios-analytics-outline" style="color: #ff689b;"></i></div>
+              <h4 class="title"><a href="">Easy</a></h4>
+              <p class="description">Do Anything Easy Whitout Any Problems Or Difficult Programming.</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
+            <div class="box">
+              <div class="icon" style="background: #fff0da;"><i class="ion-ios-bookmarks-outline" style="color: #e98e06;"></i></div>
+              <h4 class="title"><a href="">Desing</a></h4>
+              <p class="description">Desing Your Hosted Website From Any Device. Make Sure That The Device Has Bluethoot Connection.</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+            <div class="box">
+              <div class="icon" style="background: #e6fdfc;"><i class="ion-ios-paper-outline" style="color: #3fcdc7;"></i></div>
+              <h4 class="title"><a href="">Connection</a></h4>
+              <p class="description">Your Website Can Be Seen Over The World.</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+            <div class="box">
+              <div class="icon" style="background: #eafde7;"><i class="ion-ios-speedometer-outline" style="color:#41cf2e;"></i></div>
+              <h4 class="title"><a href="">Update Speed</a></h4>
+              <p class="description">Your Website Will Be Updated As Soon You Have Changed A Text Or The CSS Of A Button. The Refreshing Time Takes About 0.23MS</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+            <div class="box">
+              <div class="icon" style="background: #e1eeff;"><i class="ion-ios-world-outline" style="color: #2282ff;"></i></div>
+              <h4 class="title"><a href="">Servers</a></h4>
+              <p class="description">Your Server Cannot Be Hacked Or Changed By An Other Administrator.</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+            <div class="box">
+              <div class="icon" style="background: #ecebff;"><i class="ion-ios-clock-outline" style="color: #8660fe;"></i></div>
+              <h4 class="title"><a href="">Domains At Same Time</a></h4>
+              <p class="description">You Can Host Over 100+ Domains At The Same Time.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- #services -->
+
+    <!--==========================
+      Why Us Section
+    ============================-->
+
+
+    <!--==========================
+      Call To Action Section
+    ============================-->
+    <section id="call-to-action" class="wow fadeInUp">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-9 text-center text-lg-left">
+            <h3 class="cta-title">53Host ADS</h3>
+            <p class="cta-text">This AD Was Sponsored By 53Host Buy The PRO Version To Remove All The ADS.</p>
+          </div>
+          <div class="col-lg-3 cta-btn-container text-center">
+            <a class="cta-btn align-middle" href="#">Buy PRO</a>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- #call-to-action -->
+
+    <!--==========================
+      Features Section
+    ============================-->
+ 
+    <!--==========================
+      Pricing Section
+    ============================-->
+    <section id="pricing" class="wow fadeInUp section-bg">
+
+      <div class="container">
+
+        <header class="section-header">
+          <h3>53Host Plans</h3>
+          <p></p>
+        </header>
+
+        <div class="row flex-items-xs-middle flex-items-xs-center">
+      
+          <!-- Basic Plan  -->
+          <div class="col-xs-12 col-lg-4">
+            <div class="card">
+              <div class="card-header">
+                <h3><span class="currency">$</span>19<span class="period">/month</span></h3>
+              </div>
+              <div class="card-block">
+                <h4 class="card-title"> 
+                  Basic Plan
+                </h4>
+                <ul class="list-group">
+                  <li class="list-group-item">Odio animi voluptates</li>
+                  <li class="list-group-item">Inventore quisquam et</li>
+                  <li class="list-group-item">Et perspiciatis suscipit</li>
+                  <li class="list-group-item">24/7 Support System</li>
+                </ul>
+                <a href="#" class="btn">Choose Plan</a>
+              </div>
+            </div>
+          </div>
+      
+          <!-- Regular Plan  -->
+          <div class="col-xs-12 col-lg-4">
+            <div class="card">
+              <div class="card-header">
+                <h3><span class="currency">$</span>29<span class="period">/month</span></h3>
+              </div>
+              <div class="card-block">
+                <h4 class="card-title"> 
+                  Regular Plan
+                </h4>
+                <ul class="list-group">
+                  <li class="list-group-item">Odio animi voluptates</li>
+                  <li class="list-group-item">Inventore quisquam et</li>
+                  <li class="list-group-item">Et perspiciatis suscipit</li>
+                  <li class="list-group-item">24/7 Support System</li>
+                </ul>
+                <a href="#" class="btn">Choose Plan</a>
+              </div>
+            </div>
+          </div>
+      
+          <!-- Premium Plan  -->
+          <div class="col-xs-12 col-lg-4">
+            <div class="card">
+              <div class="card-header">
+                <h3><span class="currency">$</span>39<span class="period">/month</span></h3>
+              </div>
+              <div class="card-block">
+                <h4 class="card-title"> 
+                  Premium Plan
+                </h4>
+                <ul class="list-group">
+                  <li class="list-group-item">Odio animi voluptates</li>
+                  <li class="list-group-item">Inventore quisquam et</li>
+                  <li class="list-group-item">Et perspiciatis suscipit</li>
+                  <li class="list-group-item">24/7 Support System</li>
+                </ul>
+                <a href="#" class="btn">Choose Plan</a>
+              </div>
+            </div>
+          </div>
+      
+        </div>
+      </div>
+
+    </section><!-- #pricing -->
+              </form>
+            </div>
+
+          </div>
+
+          
+
+        </div>
+
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong>53Hosting</strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        <!--
+        -->
+        Designed by <a href="">UrosDomic</a>
+      </div>
+    </div>
+  </footer><!-- #footer -->
+
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+  <!-- Uncomment below i you want to use a preloader -->
+  <!-- <div id="preloader"></div> -->
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/mobile-nav/mobile-nav.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/waypoints/waypoints.min.js"></script>
+  <script src="lib/counterup/counterup.min.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="lib/isotope/isotope.pkgd.min.js"></script>
+  <script src="lib/lightbox/js/lightbox.min.js"></script>
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+
+</body>
+</html>
